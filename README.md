@@ -17,7 +17,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 
-118, 283, 360, 724, 747, 905, 941, 977, 1051, 1089, 1295, 1299, 1346
+118, 283, 360, 1051, 1089, 1295, 1299, 1346
 
 ### 401-500
 | # | Title | Solution | Difficulty |
@@ -27,3 +27,16 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/485.js)|Easy|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/487.js)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/498.js)|Medium|
+
+### 701-800
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/724.js)|Easy|
+|747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/747.js)|Easy|
+
+### 901-1000
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/905.js)|Easy|
+|941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/941.js)|Easy|
+|977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/977.js)|Easy|
