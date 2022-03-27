@@ -19,7 +19,13 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 
-118, 283, 360, 1051, 1089, 1295, 1299, 1346
+118, 283, 1051, 1089, 1295, 1299, 1346
+
+### 301-400
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/344.js)|Easy|
+|360|[Copy Transformed Array](https://leetcode.com/problems/sort-transformed-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
 
 ### 401-500
 | # | Title | Solution | Difficulty |
