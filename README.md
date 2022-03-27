@@ -8,6 +8,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/1.js)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/2.js)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/3.js)|Medium|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/14.js)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/26.js)|Easy|
