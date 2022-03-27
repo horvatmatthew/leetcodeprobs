@@ -12,6 +12,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/26.js)|Easy|
 |27|[Remote Elements](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/27.js)|Easy|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/28.js)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/54.js)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/66.js)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
