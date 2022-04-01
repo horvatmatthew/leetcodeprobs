@@ -12,7 +12,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.js)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/26.js)|Easy|
-|27|[Remote Elements](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/27.js)|Easy|
+|27|[Remove Elements](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/27.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/28.js)|Easy|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/54.js)|Medium|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/66.js)|Easy|
@@ -22,9 +22,17 @@ Simple repository where I'm going to store my progress going through Leet Code P
  283, 1051, 1089, 1295, 1299, 1346
 
 ### 101-200
+| # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/118.js)|Easy|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/167.cs)|Medium|
+
+### 201-300
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_209/209.cs)|Medium|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/283.js)|Easy|
+
 
 ### 301-400
 | # | Title | Solution | Difficulty |
