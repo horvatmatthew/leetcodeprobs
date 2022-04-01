@@ -19,13 +19,14 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 
- 283, 1051, 1089, 1295, 1299, 1346
+ 1051, 1089, 1295, 1299, 1346
 
 ### 101-200
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/118.js)|Easy|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/167.cs)|Medium|
+|189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/189.cs)|Medium|
 
 ### 201-300
 | # | Title | Solution | Difficulty |
