@@ -36,6 +36,11 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/487.js)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/498.js)|Medium|
 
+### 501-600
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/561.cs)|Easy|
+
 ### 701-800
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
