@@ -19,7 +19,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 
- 1051, 1089, 1295, 1299, 1346
+1295, 1299, 1346
 
 ### 101-200
 | # | Title | Solution | Difficulty |
@@ -73,3 +73,12 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/905.js)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/941.js)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/977.js)|Easy|
+
+### 1001-1100
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1046.cs)|Easy|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1051.js)|Easy|
+|1089|[Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1089.js)|Easy|
+
+ 
