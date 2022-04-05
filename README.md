@@ -42,6 +42,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/344.js)|Easy|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/347.cs)|Medium|
 |360|[Copy Transformed Array](https://leetcode.com/problems/sort-transformed-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
 
 ### 401-500
