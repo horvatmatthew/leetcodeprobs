@@ -34,6 +34,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_209/209.cs)|Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_209/215.cs)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/283.js)|Easy|
 
 
