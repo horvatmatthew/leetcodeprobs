@@ -63,6 +63,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 701-800
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/703.cs)|Easy|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/724.js)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/747.js)|Easy|
 
