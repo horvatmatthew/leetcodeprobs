@@ -72,6 +72,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |---| ----- | -------- | ---------- |
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/905.js)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/941.js)|Easy|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[C-Sharp]](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/973.cs)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/977.js)|Easy|
 
 ### 1001-1100
