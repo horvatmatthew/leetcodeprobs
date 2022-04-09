@@ -98,3 +98,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |---| ----- | -------- | ---------- |
 |1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1301_1400/1337.cs)|Easy|
 |1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1301_1400/1346.cs)|Easy|
+
+ ### 1601-1700
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1642|[Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1601_1700/1642.cs)|Medium|
