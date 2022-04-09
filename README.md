@@ -82,6 +82,11 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |1051|[Height Checker](https://leetcode.com/problems/height-checker)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1051.js)|Easy|
 |1089|[Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1089.js)|Easy|
 
+ ### 1101-1200
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1101_1200/1167.cs)|Medium|
+
 ### 1201-1300
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
