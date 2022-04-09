@@ -19,8 +19,6 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 
-1295, 1299
-
 ### 101-200
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -80,6 +78,12 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1046.cs)|Easy|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1051.js)|Easy|
 |1089|[Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1089.js)|Easy|
+
+### 1201-1300
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1201_1300/1295.cs)|Easy|
+|1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1201_1300/1299.cs)|Easy|
 
  ### 1301-1400
 | # | Title | Solution | Difficulty |
