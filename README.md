@@ -19,7 +19,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 
-1295, 1299, 1346
+1295, 1299
 
 ### 101-200
 | # | Title | Solution | Difficulty |
@@ -33,8 +33,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 201-300
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_209/209.cs)|Medium|
-|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_209/215.cs)|Medium|
+|209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/209.cs)|Medium|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/283.js)|Easy|
 
 
@@ -81,4 +81,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |1051|[Height Checker](https://leetcode.com/problems/height-checker)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1051.js)|Easy|
 |1089|[Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1001_1100/1089.js)|Easy|
 
- 
+ ### 1301-1400
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1301_1400/1337.cs)|Easy|
+|1346|[Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1301_1400/1346.cs)|Easy|
