@@ -27,6 +27,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/141.cs)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/142.cs)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/151.cs)|Medium|
+|160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/160.cs)|Easy|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/167.cs)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/189.cs)|Medium|
 
