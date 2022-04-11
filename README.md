@@ -35,6 +35,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 201-300
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/203.cs)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/206.cs)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/209.cs)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
