@@ -51,6 +51,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/347.cs)|Medium|
 |360|[Copy Transformed Array](https://leetcode.com/problems/sort-transformed-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/378.cs)|Medium|
+|398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/398.cs)|Medium|
 
 ### 401-500
 | # | Title | Solution | Difficulty |
