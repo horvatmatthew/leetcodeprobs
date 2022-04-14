@@ -11,7 +11,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/14.js)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/19.cs)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js)|Easy|
-|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.js)|Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.js) [C-Sharp]((https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.cs)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/26.js)|Easy|
 |27|[Remove Elements](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/27.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/28.js)|Easy|
