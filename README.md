@@ -6,7 +6,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/1.js)|Easy|
-|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/2.js)|Medium|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/2.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/2.cs)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/3.js)|Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/14.js)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/19.cs)|Medium|
