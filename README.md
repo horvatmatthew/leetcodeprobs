@@ -57,6 +57,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/253.cs)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/283.js)|Easy|
 |295|[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/295.cs)|Hard|
+|297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/297.cs)|Hard|
 
 
 ### 301-400
