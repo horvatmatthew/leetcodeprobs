@@ -35,6 +35,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/117.cs)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/118.js)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/119.cs)|Easy|
+|138|[LCopy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/138.cs)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/141.cs)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/142.cs)|Medium|
 |145|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/144.cs)|Easy|
