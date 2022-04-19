@@ -23,6 +23,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 101-200
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/101.cs)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/104.cs)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/118.js)|Easy|
 |112|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/119.cs)|Easy|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/141.cs)|Easy|
