@@ -69,6 +69,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |---| ----- | -------- | ---------- |
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/328.cs)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/344.js)|Easy|
+|346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/346.cs)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/347.cs)|Medium|
 |360|[Copy Transformed Array](https://leetcode.com/problems/sort-transformed-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/378.cs)|Medium|
@@ -89,6 +90,11 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |---| ----- | -------- | ---------- |
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/557.cs)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/561.cs)|Easy|
+
+### 601-700
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/601_700/622.cs)|Medium|
 
 ### 701-800
 | # | Title | Solution | Difficulty |
