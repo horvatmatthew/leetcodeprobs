@@ -45,6 +45,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/160.cs)|Easy|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/167.cs)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/189.cs)|Medium|
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/200.cs)|Medium|
 
 ### 201-300
 | # | Title | Solution | Difficulty |
@@ -58,6 +59,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |250|[Count Univalued Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/250.cs)|Medium|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/253.cs)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/283.js)|Easy|
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/286.js)|Medium|
 |295|[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/295.cs)|Hard|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/297.cs)|Hard|
 
@@ -96,6 +98,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/708.cs)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/724.js)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/747.js)|Easy|
+|752|[Open the Lock](hhttps://leetcode.com/problems/open-the-lock/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/752.cs)|Medium|
 
 ### 901-1000
 | # | Title | Solution | Difficulty |
