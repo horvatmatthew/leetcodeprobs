@@ -41,6 +41,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/142.cs)|Medium|
 |145|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/144.cs)|Easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/145.cs)|Easy|
+|150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/150.cs)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/151.cs)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/155.cs)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/160.cs)|Easy|
