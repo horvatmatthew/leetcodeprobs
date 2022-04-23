@@ -42,6 +42,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |145|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/144.cs)|Easy|
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/145.cs)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/151.cs)|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/155.cs)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/160.cs)|Easy|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/167.cs)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/189.cs)|Medium|
@@ -58,6 +59,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/236.cs)|Medium|
 |250|[Count Univalued Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/250.cs)|Medium|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/253.cs)|Easy|
+|279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/279.cs)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/283.js)|Easy|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/286.js)|Medium|
 |295|[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/295.cs)|Hard|
