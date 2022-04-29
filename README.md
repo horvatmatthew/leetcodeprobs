@@ -25,7 +25,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C-Sharp]
 (https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/94.cs)|Easy|
-|95|[BUnique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/95.cs)|Medium|
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/95.cs)|Medium|
+|98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/98.cs)|Medium|
 
 ### 101-200
 | # | Title | Solution | Difficulty |
@@ -66,6 +67,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/232.cs)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/236.cs)|Medium|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/240.cs)|Medium|
 |250|[Count Univalued Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/250.cs)|Medium|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/253.cs)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/279.cs)|Medium|
@@ -134,6 +136,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/905.js)|Easy|
+|912|[Sort An Array](https://leetcode.com/problems/sort-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/912.cs)|Medium|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/941.js)|Easy|
 |973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[C-Sharp]|(https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/973.cs)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/977.js)|Easy|
