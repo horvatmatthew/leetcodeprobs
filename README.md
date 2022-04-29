@@ -16,6 +16,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/26.js)|Easy|
 |27|[Remove Elements](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/27.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/28.js)|Easy|
+|50|[Pow(x,n)](https://leetcode.com/problems/powx-n)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/50.js)|Medium|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/54.js)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/61.cs)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/66.js)|Easy|
