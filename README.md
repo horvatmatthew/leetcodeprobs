@@ -23,7 +23,9 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/70.cs)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/94.cs)|Easy|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C-Sharp]
+(https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/94.cs)|Easy|
+|95|[BUnique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/95.cs)|Medium|
 
 ### 101-200
 | # | Title | Solution | Difficulty |
@@ -120,7 +122,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/733.cs)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/739.cs)|Medium|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/747.js)|Easy|
-|752|[Open the Lock](hhttps://leetcode.com/problems/open-the-lock/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/752.cs)|Medium|
+|752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/752.cs)|Medium|
+|779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/779.cs)|Medium|
 
 ### 801-900
 | # | Title | Solution | Difficulty |
