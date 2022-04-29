@@ -12,6 +12,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/19.cs)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.cs)|Easy|
+|24|[Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/24.cs)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/26.js)|Easy|
 |27|[Remove Elements](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/27.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/28.js)|Easy|
@@ -104,6 +105,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/601_700/622.cs)|Medium|
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/601_700/700.cs)|Easy|
 
 ### 701-800
 | # | Title | Solution | Difficulty |
