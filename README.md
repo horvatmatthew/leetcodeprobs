@@ -20,6 +20,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/61.cs)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/66.js)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/70.cs)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/94.cs)|Easy|
 
@@ -97,6 +98,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 501-600
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/509.cs)|Easy|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/542.cs)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/557.cs)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/561.cs)|Easy|
