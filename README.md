@@ -91,6 +91,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 501-600
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/542.cs)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/557.cs)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/561.cs)|Easy|
 
@@ -106,9 +107,15 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/707.cs)|Medium|
 |708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/708.cs)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/724.js)|Easy|
+|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/733.cs)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/739.cs)|Medium|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/747.js)|Easy|
 |752|[Open the Lock](hhttps://leetcode.com/problems/open-the-lock/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/752.cs)|Medium|
+
+### 801-900
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|841|[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/801_900/841.cs)|Medium|
 
 ### 901-1000
 | # | Title | Solution | Difficulty |
