@@ -36,7 +36,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/117.cs)|Medium|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/118.js)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/119.cs)|Easy|
-|138|[LCopy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/138.cs)|Medium|
+|133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/133.cs)|Medium|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/138.cs)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/141.cs)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/142.cs)|Medium|
 |145|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/144.cs)|Easy|
@@ -56,6 +57,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/206.cs)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/209.cs)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/225.cs)|Easy|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/232.cs)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/236.cs)|Medium|
 |250|[Count Univalued Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/250.cs)|Medium|
@@ -76,6 +79,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/347.cs)|Medium|
 |360|[Copy Transformed Array](https://leetcode.com/problems/sort-transformed-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/378.cs)|Medium|
+|394|[Decode String](https://leetcode.com/problems/decode-string/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/394.cs)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/398.cs)|Medium|
 
 ### 401-500
@@ -86,6 +90,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/448.js)|Easy|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/485.js)|Easy|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/487.js)|Medium|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/494.js)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/498.js)|Medium|
 
 ### 501-600
