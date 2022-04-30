@@ -54,6 +54,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/155.cs)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/160.cs)|Easy|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/167.cs)|Medium|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/173.cs)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/189.cs)|Medium|
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/200.cs)|Medium|
 
