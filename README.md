@@ -16,7 +16,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/26.js)|Easy|
 |27|[Remove Elements](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/27.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/28.js)|Easy|
-|50|[Pow(x,n)](https://leetcode.com/problems/powx-n)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/50.js)|Medium|
+|50|[Pow(x,n)](https://leetcode.com/problems/powx-n)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/50.cs)|Medium|
+|52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/52.cs)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/54.js)|Medium|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/61.cs)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/66.js)|Easy|
@@ -72,7 +73,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/253.cs)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/279.cs)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/283.js)|Easy|
-|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/286.js)|Medium|
+|285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/285.cs)|Medium|
+|286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/286.cs)|Medium|
 |295|[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/295.cs)|Hard|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/297.cs)|Hard|
 
