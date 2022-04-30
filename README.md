@@ -120,6 +120,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 701-800
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/701.cs)|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/703.cs)|Easy|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/707.cs)|Medium|
 |708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/708.cs)|Medium|
