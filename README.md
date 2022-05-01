@@ -65,6 +65,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/206.cs)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/209.cs)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
+|220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/220.cs)|Medium|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/225.cs)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/232.cs)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
