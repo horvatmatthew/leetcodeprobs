@@ -37,6 +37,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/104.cs)|Easy|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/105.cs)|Medium|
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/106.cs)|Medium|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/110.cs)|Easy|
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/111.cs)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/112.cs)|Easy|
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/116.cs)|Medium|
