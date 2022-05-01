@@ -22,6 +22,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/61.cs)|Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/66.js)|Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/69.cs)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/70.cs)|Easy|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C-Sharp]
@@ -92,6 +93,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/346.cs)|Medium|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/347.cs)|Medium|
 |360|[Copy Transformed Array](https://leetcode.com/problems/sort-transformed-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/374.cs)|Easy|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/378.cs)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/394.cs)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/398.cs)|Medium|
