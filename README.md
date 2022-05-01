@@ -68,6 +68,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/225.cs)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/232.cs)|Easy|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/235.cs)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/236.cs)|Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/240.cs)|Medium|
 |250|[Count Univalued Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/250.cs)|Medium|
