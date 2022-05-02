@@ -108,7 +108,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/414.js)|Easy|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/430.cs)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/448.js)|Easy|
-|450|[Delete Node in a BST](hhttps://leetcode.com/problems/delete-node-in-a-bst/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/450.cs)|Medium|
+|450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/450.cs)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/485.js)|Easy|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/487.js)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/494.js)|Medium|
