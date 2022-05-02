@@ -17,6 +17,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |27|[Remove Elements](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/27.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/28.js)|Easy|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/33.cs)|Medium|
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/34.cs)|Medium|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/50.cs)|Medium|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/52.cs)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/54.js)|Medium|
@@ -55,8 +56,10 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/145.cs)|Easy|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/150.cs)|Medium|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/151.cs)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/153.cs)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/155.cs)|Easy|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/160.cs)|Easy|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/162.cs)|Medium|
 |167|[Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/167.cs)|Medium|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/173.cs)|Medium|
 |189|[Rotate Array](https://leetcode.com/problems/rotate-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/189.cs)|Medium|
