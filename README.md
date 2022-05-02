@@ -108,7 +108,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/414.js)|Easy|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/430.cs)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/448.js)|Easy|
-|450|[Delete Node in a BST](hhttps://leetcode.com/problems/delete-node-in-a-bst/)|C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/450.cs)|Medium|
+|450|[Delete Node in a BST](hhttps://leetcode.com/problems/delete-node-in-a-bst/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/450.cs)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/485.js)|Easy|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/487.js)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/494.js)|Medium|
@@ -137,8 +137,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/707.cs)|Medium|
 |708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/708.cs)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/724.js)|Easy|
-|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/733.cs)|Medium|
-|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/739.cs)|Medium|
+|733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/733.cs)|Medium|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/739.cs)|Medium|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/747.js)|Easy|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/752.cs)|Medium|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/779.cs)|Medium|
@@ -154,7 +154,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/905.js)|Easy|
 |912|[Sort An Array](https://leetcode.com/problems/sort-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/912.cs)|Medium|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/941.js)|Easy|
-|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[C-Sharp]|(https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/973.cs)|Medium|
+|973|[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/973.cs)|Medium|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/901_1000/977.js)|Easy|
 
 ### 1001-1100
