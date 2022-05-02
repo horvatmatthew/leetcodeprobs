@@ -81,6 +81,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/240.cs)|Medium|
 |250|[Count Univalued Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/250.cs)|Medium|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/253.cs)|Easy|
+|270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/270.cs)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/278.cs)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/279.cs)|Medium|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/283.js)|Easy|
@@ -99,8 +100,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/347.cs)|Medium|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/349.cs)|Easy|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/350.cs)|Easy|
-|360|[Copy Transformed Array](https://leetcode.com/problems/sort-transformed-array)|[Javascript](https://
-github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
+|360|[Copy Transformed Array](https://leetcode.com/problems/sort-transformed-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/367.cs)|Easy|
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/374.cs)|Easy|
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/378.cs)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/394.cs)|Medium|
@@ -130,12 +131,14 @@ github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |622|[Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/601_700/622.cs)|Medium|
+|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/601_700/658.cs)|Medium|
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/601_700/700.cs)|Easy|
 
 ### 701-800
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/701.cs)|Medium|
+|702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/702.cs)|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/703.cs)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/704.cs)|Easy|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/707.cs)|Medium|
@@ -143,6 +146,7 @@ github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/360.js)|Medium|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/724.js)|Easy|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/733.cs)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/739.cs)|Medium|
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/744.cs)|Easy|
 |747|[Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/747.js)|Easy|
 |752|[Open the Lock](https://leetcode.com/problems/open-the-lock/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/752.cs)|Medium|
 |779|[K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/779.cs)|Medium|
