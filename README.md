@@ -8,6 +8,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/1.js)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/2.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/2.cs)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/3.js)|Medium|
+|4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/4.cs)|Hard|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/14.js)|Easy|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/19.cs)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js)|Easy|
@@ -87,6 +88,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/283.js)|Easy|
 |285|[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/285.cs)|Medium|
 |286|[Walls and Gates](https://leetcode.com/problems/walls-and-gates/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/286.cs)|Medium|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/287.cs)|Medium|
 |295|[Find Median From Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/295.cs)|Hard|
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/297.cs)|Hard|
 
@@ -110,6 +112,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 401-500
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/410.cs)|Hard|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/414.js)|Easy|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/430.cs)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/448.js)|Easy|
@@ -143,6 +146,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/704.cs)|Easy|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/707.cs)|Medium|
 |708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/708.cs)|Medium|
+|719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/719.cs)|Hard|
 |724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/724.js)|Easy|
 |733|[Flood Fill](https://leetcode.com/problems/flood-fill/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/733.cs)|Medium|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/739.cs)|Medium|
