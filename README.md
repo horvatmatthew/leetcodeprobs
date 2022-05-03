@@ -114,6 +114,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |---| ----- | -------- | ---------- |
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/410.cs)|Hard|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/414.js)|Easy|
+|429|[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/429.cs)|Medium|
 |430|[Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/430.cs)|Medium|
 |448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/448.js)|Easy|
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/450.cs)|Medium|
@@ -129,6 +130,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/542.cs)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/557.cs)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/561.cs)|Easy|
+|589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/589.cs)|Easy|
+|590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/590.cs)|Easy|
 
 ### 601-700
 | # | Title | Solution | Difficulty |
