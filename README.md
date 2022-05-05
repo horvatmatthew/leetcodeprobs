@@ -19,6 +19,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/28.js)|Easy|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/33.cs)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/34.cs)|Medium|
+|37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/37.cs)|Hard|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/50.cs)|Medium|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/52.cs)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/54.js)|Medium|
