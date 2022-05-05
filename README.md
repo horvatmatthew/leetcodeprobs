@@ -27,6 +27,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/67.js)|Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/69.cs)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/70.cs)|Easy|
+|77|[Combinations](https://leetcode.com/problems/combinations/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/77.cs)|Medium|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/94.cs)|Easy|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/95.cs)|Medium|
