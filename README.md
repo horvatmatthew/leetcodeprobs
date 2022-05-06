@@ -13,6 +13,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/19.cs)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.cs)|Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/22.cs)|Medium|
 |24|[Swap Nodes In Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/24.cs)|Medium|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/26.js)|Easy|
 |27|[Remove Elements](https://leetcode.com/problems/remove-element)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/27.js)|Easy|
@@ -33,6 +34,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/94.cs)|Easy|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/95.cs)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/98.cs)|Medium|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/100.cs)|Easy|
 
 ### 101-200
 | # | Title | Solution | Difficulty |
@@ -124,6 +126,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/450.cs)|Medium|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/485.js)|Easy|
 |487|[Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/487.js)|Medium|
+|489|[Robot Room Cleaner](hhttps://leetcode.com/problems/robot-room-cleaner/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/489.cs)|Hard|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/494.js)|Medium|
 |498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/401_500/498.js)|Medium|
 
