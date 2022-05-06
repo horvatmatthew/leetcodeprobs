@@ -10,7 +10,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/3.js)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/4.cs)|Hard|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/14.js)|Easy|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/19.cs)|Medium|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/19.cs)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/19.cs)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/20.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/21.cs)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/22.cs)|Medium|
@@ -21,6 +22,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/33.cs)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/34.cs)|Medium|
 |37|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/37.cs)|Hard|
+|46|[Permutations](https://leetcode.com/problems/permutations/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/46.cs)|Medium|
 |50|[Pow(x,n)](https://leetcode.com/problems/powx-n)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/50.cs)|Medium|
 |52|[N-Queens II](https://leetcode.com/problems/n-queens-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/52.cs)|Hard|
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/54.js)|Medium|
@@ -30,6 +32,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/69.cs)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/70.cs)|Easy|
 |77|[Combinations](https://leetcode.com/problems/combinations/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/77.cs)|Medium|
+|84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/84.cs)|Hard|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/88.js)|Easy|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/94.cs)|Easy|
 |95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/95.cs)|Medium|
@@ -77,6 +80,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/206.cs)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/209.cs)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
+|218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/218.cs)|Hard|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/220.cs)|Medium|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/225.cs)|Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/232.cs)|Easy|
