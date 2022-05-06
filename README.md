@@ -162,6 +162,8 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |702|[Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/702.cs)|Medium|
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/703.cs)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/704.cs)|Easy|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/705.cs)|Easy|
+|706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/706.cs)|Easy|
 |707|[Design Linked List](https://leetcode.com/problems/design-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/707.cs)|Medium|
 |708|[Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/708.cs)|Medium|
 |719|[Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/701_800/719.cs)|Hard|
