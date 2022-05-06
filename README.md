@@ -90,6 +90,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/240.cs)|Medium|
 |250|[Count Univalued Subtrees](https://leetcode.com/problems/count-univalue-subtrees/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/250.cs)|Medium|
 |253|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/253.cs)|Easy|
+|261|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/261.cs)|Medium|
 |270|[Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/270.cs)|Easy|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/278.cs)|Easy|
 |279|[Perfect Squares](https://leetcode.com/problems/perfect-squares/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/279.cs)|Medium|
