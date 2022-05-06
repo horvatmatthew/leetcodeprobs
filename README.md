@@ -56,6 +56,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/118.js)|Easy|
 |119|[Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/119.cs)|Easy|
 |133|[Clone Graph](https://leetcode.com/problems/clone-graph/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/133.cs)|Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/136.cs)|Easy|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/138.cs)|Medium|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/141.cs)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/101_200/142.cs)|Medium|
@@ -76,10 +77,12 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 201-300
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/202.cs)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/203.cs)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/206.cs)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/209.cs)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/217.cs)|Easy|
 |218|[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/218.cs)|Hard|
 |220|[Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/220.cs)|Medium|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/225.cs)|Easy|
