@@ -140,6 +140,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |---| ----- | -------- | ---------- |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/509.cs)|Easy|
 |542|[01 Matrix](https://leetcode.com/problems/01-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/542.cs)|Medium|
+|547|[Number of Provinces](https://leetcode.com/problems/number-of-provinces/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/547.cs)|Medium|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/557.cs)|Easy|
 |559|[Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/559.cs)|Easy|
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/561.cs)|Easy|
