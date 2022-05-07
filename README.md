@@ -122,6 +122,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/378.cs)|Medium|
 |394|[Decode String](https://leetcode.com/problems/decode-string/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/394.cs)|Medium|
 |398|[Random Pick Index](https://leetcode.com/problems/random-pick-index/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/398.cs)|Medium|
+|399|[Evaluate Division](https://leetcode.com/problems/evaluate-division/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/399.cs)|Medium|
 
 ### 401-500
 | # | Title | Solution | Difficulty |
@@ -211,6 +212,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 1201-1300
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1202|[Smallest String With Swaps](https://leetcode.com/problems/smallest-string-with-swaps/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1201_1300/1202.cs)|Medium|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1201_1300/1295.cs)|Easy|
 |1299|[Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1201_1300/1299.cs)|Easy|
 
