@@ -208,6 +208,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |---| ----- | -------- | ---------- |
 |1101|[The Earliest Moment When Everyone Become Friends](https://leetcode.com/problems/the-earliest-moment-when-everyone-become-friends/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1101_1200/1101.cs)|Medium|
 |1167|[Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1101_1200/1167.cs)|Medium|
+|1168|[Optimize Water Distribution in a Village](https://leetcode.com/problems/optimize-water-distribution-in-a-village/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1101_1200/1168.cs)|Hard|
 
 ### 1201-1300
 | # | Title | Solution | Difficulty |
