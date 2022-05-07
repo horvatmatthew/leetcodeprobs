@@ -5,7 +5,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 1-100
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/1.js)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/1.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/1.cs)|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/2.js) [C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/2.cs)|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/3.js)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/1_100/4.cs)|Hard|
@@ -79,6 +79,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |---| ----- | -------- | ---------- |
 |202|[Happy Number](https://leetcode.com/problems/happy-number/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/202.cs)|Easy|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/203.cs)|Easy|
+|205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/205.cs)|Easy|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/206.cs)|Easy|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/209.cs)|Medium|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/201_300/215.cs)|Medium|
@@ -108,6 +109,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 ### 301-400
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|323|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/323.cs)|Medium|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/328.cs)|Medium|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Javascript](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/344.js)|Easy|
 |346|[Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/301_400/346.cs)|Medium|
@@ -150,6 +152,7 @@ Simple repository where I'm going to store my progress going through Leet Code P
 |561|[Array Partition I](https://leetcode.com/problems/array-partition-i/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/561.cs)|Easy|
 |589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/589.cs)|Easy|
 |590|[N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/590.cs)|Easy|
+|599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)|[C-Sharp](https://github.com/horvatmatthew/leetcodeprobs/blob/main/501_600/599.cs)|Easy|
 
 ### 601-700
 | # | Title | Solution | Difficulty |
