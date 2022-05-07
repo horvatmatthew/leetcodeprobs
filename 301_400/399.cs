@@ -1,94 +1,55 @@
-public class Solution
-{
-    public double[] CalcEquation(IList<IList<string>> equations, double[] values, IList<IList<string>> queries)
-    {
-        var uf = new UnionFind();
-        for (var i = 0; i < equations.Count; i++)
+public class Solution {
+    public double[] CalcEquation(IList<IList<string>> equations, double[] values, IList<IList<string>> queries) {
+        double[] res = new double[queries.Count];
+        Dictionary<string,string> root = new Dictionary<string,string>();
+        Dictionary<string,double> dist = new Dictionary<string,double>();
+        
+        for(int i=0;i<equations.Count;i++)
         {
-            uf.Union(equations[i][0], equations[i][1], values[i]);
+            string r1=Find(equations[i][0]);
+            string r2=Find(equations[i][1]);
+            
+            root[r1]=r2;
+            dist[r1]=dist[equations[i][1]] * values[i] / dist[equations[i][0]];
         }
-
-        var answers = new double[queries.Count];
-        for (var i = 0; i < queries.Count; i++)
+        
+        for(int i=0;i<queries.Count;i++)
         {
-            var node1 = uf.Find(queries[i][0]);
-            var node2 = uf.Find(queries[i][1]);
-
-            if (node1 == null || node2 == null || !node1.Divisor.Equals(node2.Divisor))
+            if(!root.ContainsKey(queries[i][0]) || !root.ContainsKey(queries[i][1]))
             {
-                answers[i] = -1.0;
+                res[i]=-1.0;
+                continue;
             }
-            else
+            
+            string r1 = Find(queries[i][0]);
+            string r2 = Find(queries[i][1]);
+            if(!r1.Equals(r2))
             {
-                answers[i] = node1.Quotient / node2.Quotient;
+                res[i]=-1.0;
+                continue;
             }
+            res[i]= (double) dist[queries[i][0]]/dist[queries[i][1]];
         }
-
-        return answers;
+        
+        string Find(string s)
+        {
+            if(!root.ContainsKey(s))
+            {
+                root.Add(s,s);
+                dist.Add(s,1.0);
+                return s;
+            }
+            
+            string lastP = root[s];
+            if(lastP.Equals(s)) return s;
+            
+            string p = Find(lastP);
+            root[s]=p;
+            dist[s]=dist[s]*dist[lastP];
+            return p;
+        }
+        
+        return res;
     }
 }
-
-public class Node
-{
-    public string Divisor;
-    public double Quotient;
-
-    public Node(string divisor, double quotient)
-    {
-        Divisor = divisor;
-        Quotient = quotient;
-    }
-}
-
-public class UnionFind
-{
-    private Dictionary<string, Node> _map;
-
-    public UnionFind()
-    {
-        _map = new Dictionary<string, Node>();
-    }
-
-    public Node Find(string dividend)
-    {
-        if (!_map.ContainsKey(dividend)) return null;
-
-        var node = _map[dividend];
-        if (!node.Divisor.Equals(dividend))
-        {
-            var nextNode = Find(node.Divisor);
-            node.Divisor = nextNode.Divisor;
-            node.Quotient *= nextNode.Quotient;
-        }
-
-        return node;
-    }
-
-    public void Union(string dividend, string divisor, double quotient)
-    {
-        var hasDividend = _map.ContainsKey(dividend);
-        var hasDivisor = _map.ContainsKey(divisor);
-
-        if (!hasDividend && !hasDivisor)
-        {
-            _map[dividend] = new Node(divisor, quotient);
-            _map[divisor] = new Node(divisor, 1.0);
-        }
-        else if (!hasDividend)
-        {
-            _map[dividend] = new Node(divisor, quotient);
-        }
-        else if (!hasDivisor)
-        {
-            _map[divisor] = new Node(dividend, 1.0 / quotient);
-        }
-        else
-        {
-            var node1 = Find(dividend);
-            var node2 = Find(divisor);
-
-            node1.Divisor = node2.Divisor;
-            node1.Quotient = quotient / node1.Quotient * node2.Quotient;
-        }
-    }
 }
